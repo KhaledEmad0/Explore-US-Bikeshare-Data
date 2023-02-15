@@ -23,9 +23,10 @@ The Chicago and New York City files also have the following two columns:
 ![nyc-data](https://user-images.githubusercontent.com/93608789/219114765-35b01533-1ec5-4c76-851e-39e5ca6bfa62.png)
 
 # Statistics Computed
-You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information: 
+You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
+
 <br>
-**#1 Popular times of travel**
+**1. Popular times of travel**
 - most common month
 - most common day of week
 - most common hour of day <br>
